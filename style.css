@@ -1,0 +1,50 @@
+body{
+    background-size: cover;
+    background-position: center;
+
+}
+
+#heading{
+    width :80%;
+    font-size: 22px;
+    color: aliceblue;
+    
+}
+
+.name_of_objects{
+    color:grey;
+
+}
+
+#camera{
+    border:2px dashed white;
+    width: 350px;
+    height : 300px;
+
+}
+
+.heading1{
+    width: 80%;
+    font-size: 15px;
+}
+
+.r1{
+    color: aliceblue;
+}
+
+#r2{
+    color: aliceblue;
+}
+
+.heading2{
+    border-radius: 20px;
+    width: 200;
+}
+
+#rr1{
+    color: aliceblue;
+}
+
+#rr2{
+    color: aliceblue;
+}
